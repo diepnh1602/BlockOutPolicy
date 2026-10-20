@@ -7,7 +7,11 @@ Basic English privacy policy for Block Out. Updated October 20, 2026.
 
 ## Contact
 
-Replace `SUPPORT_EMAIL` in both documents with the confirmed public support email before publishing the policy.
+Studio: hudigame
+
+Email: hudigame.dev@gmail.com
+
+Contact details match the [existing hudigame privacy policy](https://hdart98.github.io/Privacy-Policy/).
 
 ## Hosting
 

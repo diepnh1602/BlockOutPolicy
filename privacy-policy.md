@@ -2,7 +2,7 @@
 
 Last updated: October 20, 2026
 
-This Privacy Policy explains how Block Out ("the game", "we", "us") handles information when you play the game or contact us. For questions or privacy requests, email SUPPORT_EMAIL.
+Block Out ("the game") is developed and published by hudigame ("we", "us"). This Privacy Policy explains how we handle information when you play the game or contact us. For questions or privacy requests, email hudigame.dev@gmail.com.
 
 ## 1. Information handled by the game
 
@@ -38,17 +38,17 @@ Local game data remains on your device until it is cleared or removed. On Androi
 
 We retain support correspondence only as long as needed to handle the request and any related legal or security obligations. Service providers retain information according to their policies and applicable law. Store transaction records may need to be kept for accounting, fraud prevention, or other legal obligations.
 
-To request access to or deletion of information held by us, email SUPPORT_EMAIL with the subject "Block Out privacy request". Describe your request and provide only the information needed to identify the relevant correspondence or transaction. We may ask for reasonable verification and will respond within the time required by applicable law. Requests about data held independently by Unity, Google, or Apple can also be submitted through their privacy channels above.
+To request access to or deletion of information held by us, email hudigame.dev@gmail.com with the subject "Block Out privacy request". Describe your request and provide only the information needed to identify the relevant correspondence or transaction. We may ask for reasonable verification and will respond within the time required by applicable law. Requests about data held independently by Unity, Google, or Apple can also be submitted through their privacy channels above.
 
 ## 5. Your choices and rights
 
 You can edit your local player name and avatar in the game and manage device permissions, advertising identifiers, and ad-personalization preferences in your device settings. Where an ad provides a privacy or information control, you can use it to view the provider's choices. These controls may limit personalization without removing all ads or technical processing.
 
-Depending on your location, you may have rights to access, correct, delete, or receive a copy of personal information, restrict or object to processing, withdraw consent, or opt out of certain advertising uses. Contact SUPPORT_EMAIL to exercise applicable rights. Withdrawing consent does not affect earlier lawful processing. You may also complain to your local data-protection authority.
+Depending on your location, you may have rights to access, correct, delete, or receive a copy of personal information, restrict or object to processing, withdraw consent, or opt out of certain advertising uses. Contact hudigame.dev@gmail.com to exercise applicable rights. Withdrawing consent does not affect earlier lawful processing. You may also complain to your local data-protection authority.
 
 ## 6. Children's privacy
 
-We do not knowingly collect personal information directly from children under 13, or under a higher age where local law requires it. If you are a parent or guardian and believe a child has provided personal information to us, contact SUPPORT_EMAIL so we can investigate and delete it where required. Children's data must receive the protections required by applicable law and platform rules.
+We do not knowingly collect personal information directly from children under 13, or under a higher age where local law requires it. If you are a parent or guardian and believe a child has provided personal information to us, contact hudigame.dev@gmail.com so we can investigate and delete it where required. Children's data must receive the protections required by applicable law and platform rules.
 
 ## 7. Security and international processing
 
@@ -58,4 +58,4 @@ We use reasonable measures to protect information we handle. No storage or trans
 
 We may update this policy as the game or its services change. The latest version will appear on this page with an updated date. Material changes will be communicated as required by applicable law.
 
-For support, questions, or privacy requests about Block Out, email SUPPORT_EMAIL.
+For support, questions, or privacy requests about Block Out, contact hudigame at hudigame.dev@gmail.com.
